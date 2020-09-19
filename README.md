@@ -7,4 +7,11 @@
 * ```git add .```
 ## Commit files to git repo
 * ```git commit -am "<message>"```
+## Push files to remote repo
+* ```git push origin [<branch name>]```
+## Fetch status of remote repo
+* ```git fetch```
+## Change current branch
+* ```git checkout <branch name>```
+
 
