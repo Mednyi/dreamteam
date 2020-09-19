@@ -13,5 +13,8 @@
 * ```git fetch```
 ## Change current branch
 * ```git checkout <branch name>```
+## Get(Pull) changes from remote repo
+* ```git fetch```
+* ```git pull```
 
 
